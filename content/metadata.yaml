@@ -1,6 +1,6 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
+title: Gröem Official
+shortTitle: Gröem Official
+siteUrl: https://groem.co
 description: ''
 lang: en
 logo: logo.png
@@ -8,9 +8,9 @@ favicon: favicon.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
+  highlight: '#f3818181'
   accent: '#262626'
-  background: '#262626'
+  background: '#ffffff'
 tracking:
   which: none
   id: ''

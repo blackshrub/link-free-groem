@@ -1,7 +1,7 @@
 ---
 key: links
 data:
-  - label: Chat with us on WhatsApp 💬
+  - label: Chat with us on WhatsApp aja kaliii 💬
     url: https://wa.me/5545991328593
   - label: Follow us on Instagram 📸
     url: https://instagram.com/mars.collective

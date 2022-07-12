@@ -4,7 +4,7 @@ data:
   - label: Belanja di Tokopedia 🛍️
     url: #
   - label: Belanja di Shopee 🛍️
-    url: #
+    url: https://shopee.co.id/groem.official
   - label: Hubungi via WhatsApp 💬
     url: https://wa.me/628998995989
   - label: Pertanyaan/Klaim via Email 💬

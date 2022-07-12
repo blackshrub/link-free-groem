@@ -1,8 +1,6 @@
 ---
 key: links
 data:
-  - label: Belanja di Tokopedia 🛍️
-    url: #
   - label: Belanja di Shopee 🛍️
     url: https://shopee.co.id/groem.official
   - label: Hubungi via WhatsApp 💬
